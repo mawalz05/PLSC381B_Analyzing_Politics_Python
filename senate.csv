@@ -1,4 +1,4 @@
-state_fips,year,dem_prop_US_sen,rep_prop_US_sen
+state_fips,year,dem_prop,rep_prop
 1,1978,0.750078256,0.249921744
 1,1980,0.484059571,0.515940429
 1,1984,0.633191886,0.366808114
